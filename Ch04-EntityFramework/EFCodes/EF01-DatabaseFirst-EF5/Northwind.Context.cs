@@ -15,7 +15,8 @@ namespace EF01_DatabaseFirst_EF5
     using System.Data.Objects;
     using System.Data.Objects.DataClasses;
     using System.Linq;
-    
+
+
     public partial class NorthwindEntities : DbContext
     {
         public NorthwindEntities()
